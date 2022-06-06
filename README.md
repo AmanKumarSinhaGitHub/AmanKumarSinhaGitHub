@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amankrsinha
+- 👋 Hi, I’m Aman Kumar Sinha
 - 👀 I’m interested in Web Development and CP
 - 🌱 I’m currently learning JavaScript
 - 📫 MY Linked Profile : @amankumarsinha
