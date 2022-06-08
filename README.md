@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Kumar Sinha
 - 👀 I’m interested in Web Development and CP
 - 🌱 I’m currently learning JavaScript
-- 📫 MY Linked Profile : @amankumarsinha
+- 📫 My Linked Profile : @amankumarsinha
 
 <!---
 amankrsinha/amankrsinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
