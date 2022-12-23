@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Kumar Sinha
-- 👀 I’m interested in Web Development and CP
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 📫 My Linked Profile : @amankumarsinha
 
