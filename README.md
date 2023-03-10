@@ -23,7 +23,8 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React.js** - 👨‍💻 All of my projects are available
+- 🌱 I’m currently learning **React.js** 
+- 👨‍💻 All of my projects are available
 at
 [https://github.com/AmanKumarSinhaGitHub](https://github.com/AmanKumarSinhaGitHub)
 - 📫 How to reach me **amankrsinha07@gmail.com**
