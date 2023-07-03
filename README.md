@@ -26,21 +26,20 @@
 - 🌱 I’m currently learning **React.js** 
 - 👨‍💻 Contact me on **amankrsinha07@gmail.com**
 
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinhagithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="amankumarsinhagithub"
+  />
+</p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumarsinhagithub&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarsinhagithub&theme=dark&hide_border=false"
     alt="amankumarsinhagithub"
   />
 </p>
 
 
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarsinhagithub&"
-    alt="amankumarsinhagithub"
-  />
-</p>
