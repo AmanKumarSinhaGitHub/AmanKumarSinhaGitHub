@@ -23,7 +23,8 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React.js** 
+- 🌱 I’m currently learning **React.js**
+- 🏆 Final Year BCA Student
 - 👨‍💻 Contact me on **amankrsinha07@gmail.com**
 
 <p>
