@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Sinha</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Front-End Web Developer from India</h3>
 
 <img
   align="right"
@@ -23,7 +23,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Front-End **React.js**
 - 🏆 Final Year BCA Student
 - 👨‍💻 Contact me on **amankrsinha07@gmail.com**
 
