@@ -31,7 +31,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinhagithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinhagithub&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="amankumarsinhagithub"
   />
 </p>
@@ -39,7 +39,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarsinhagithub&theme=dark&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarsinhagithub&theme=nightowl&hide_border=false"
     alt="amankumarsinhagithub"
   />
 </p>
