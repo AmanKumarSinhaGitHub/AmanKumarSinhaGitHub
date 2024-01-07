@@ -23,8 +23,8 @@
   /></a>
 </p>
 
-- 🌱 Front-End **React.js**
-- 🏆 Final Year BCA Student
+- 🌱 Front-End **React.js** Developer
+- 🏆 BCA 2023 Graduate
 - 🖥️ Portfolio - [Click Here](https://amankumarsinhagithub.github.io/Portfolio/)
 - 👨‍💻 Contact me on **amankrsinha07@gmail.com**
 
