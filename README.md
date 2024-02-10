@@ -23,7 +23,8 @@
   /></a>
 </p>
 
-- 🌱 Front-End **React.js** Developer
+- 🌱 Front-End **React.js**
+- 🚀 HTML, CSS, JS, PHP, MySQL
 - 🏆 BCA 2023 Graduate
 - 🖥️ Portfolio - [Click Here](https://amankumarsinhagithub.github.io/Portfolio/)
 - 👨‍💻 Contact me on **amankrsinha07@gmail.com**
