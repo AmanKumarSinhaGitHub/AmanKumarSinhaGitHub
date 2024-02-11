@@ -11,7 +11,7 @@
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=amankumarsinhagithub&label=Profile%20views&color=0e75b6&style=flat"
-    alt="amankumarsinhagithub"
+    alt="total visitors"
   />
 </p>
 
@@ -19,13 +19,13 @@
   <a href="https://twitter.com/amankumarsinha_" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/amankumarsinha_?logo=twitter&style=for-the-badge"
-      alt="amankumarsinha_"
+      alt="twitter"
   /></a>
 </p>
 
-- 🌱 Front-End **React.js**
+- 🌱 Front-End **ReactJS**
 - 🚀 HTML, CSS, JS, PHP, MySQL
-- 🏆 BCA 2023 Graduate
+- 🏆 Full Stact Web Developer at [Khabai Tech](https://khabaitech.com/)
 - 🖥️ Portfolio - [Click Here](https://amankumarsinhagithub.github.io/Portfolio/)
 - 👨‍💻 Contact me on **amankrsinha07@gmail.com**
 
