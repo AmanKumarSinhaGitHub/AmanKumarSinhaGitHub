@@ -27,7 +27,7 @@
 - 🚀 HTML, CSS, JS, PHP, MySQL
 - 🏆 Full Stact Web Developer at [Khabai Tech](https://khabaitech.com/)
 - 🖥️ Portfolio - [Click Here](https://amankumarsinhagithub.github.io/Portfolio/)
-- 👨‍💻 Contact me on **amankrsinha07@gmail.com**
+- 👨‍💻 Contact me on **contactamankumarsinha@gmail.com**
 
 <p>
   <img
