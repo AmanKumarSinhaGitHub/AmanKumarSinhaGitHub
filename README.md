@@ -18,8 +18,9 @@ src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8
 
 
 - 🏆 Full Stact Web Developer at [Khabai Tech](https://khabaitech.com/)
-- 🖥️ Portfolio - [Click Here](https://amankumarsinhagithub.github.io/Portfolio/)
-- 👨‍💻 Contact me on **contactamankumarsinha@gmail.com**
+- 🖥️ Portfolio - [Link](https://amankumarsinhagithub.github.io/Portfolio/)
+- 🚀 LinkedIn - [@amankumarsinha](https://www.linkedin.com/in/amankumarsinha/)
+- 📧 Contact me on **contactamankumarsinha@gmail.com**
 
 
 <h3 align="left">🧑‍💻Tech Stack</h3>
@@ -61,19 +62,6 @@ src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8
 </div>
 
 ###
-
-<h3 align="left">👋 Connect Me</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-</div>
-
-###
-
-
 
 <p align="left">
   <img
