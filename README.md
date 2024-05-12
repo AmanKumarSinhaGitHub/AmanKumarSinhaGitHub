@@ -73,20 +73,20 @@ src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8
 
 ###
 
-<p>
+
+
+<p align="left">
   <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinhagithub&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="amankumarsinhagithub"
-  />
-</p>
-
-<p>
+  /> &nbsp; &nbsp; &nbsp;
   <img
-    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarsinhagithub&theme=nightowl&hide_border=false"
     alt="amankumarsinhagithub"
   />
 </p>
+
+
+
 
 
