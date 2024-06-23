@@ -18,7 +18,7 @@ src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8
 
 
 - 🏆 Full Stact Web Developer at [Khabai Tech](https://khabaitech.com/)
-- 🖥️ Portfolio - [Link](https://amankumarsinhagithub.github.io/Portfolio/)
+- 🖥️ Portfolio - [Link](https://aman-kumar-sinha.vercel.app/)
 - 🚀 LinkedIn - [@amankumarsinha](https://www.linkedin.com/in/amankumarsinha/)
 - 📧 Contact me on **contactamankumarsinha@gmail.com**
 
