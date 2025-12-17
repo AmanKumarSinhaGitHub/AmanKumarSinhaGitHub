@@ -17,7 +17,7 @@
 
 
 
-- 🏆 NextJS Frontend Developer at [Walsis eConnect India Pvt Limited](https://www.walsisindia.com/)
+- 🏆 NextJS Frontend Developer
 - 🖥️ Portfolio - [Link](https://aman-kumar-sinha.vercel.app/)
 - 🚀 LinkedIn - [@amankumarsinha](https://www.linkedin.com/in/amankumarsinha/)
 - 📧 Contact me on **contactamankumarsinha@gmail.com**
