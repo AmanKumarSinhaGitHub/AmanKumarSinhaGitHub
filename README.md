@@ -10,7 +10,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=amankumarsinhagithub&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=aman-sinha-dev&label=Profile%20views&color=0e75b6&style=flat"
     alt="total visitors"
   />
 </p>
@@ -69,12 +69,12 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinhagithub&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="amankumarsinhagithub"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-sinha-dev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="aman-sinha-dev"
   /> &nbsp; &nbsp; &nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarsinhagithub&theme=nightowl&hide_border=false"
-    alt="amankumarsinhagithub"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aman-sinha-dev&theme=nightowl&hide_border=false"
+    alt="aman-sinha-dev"
   />
 </p>
 
