@@ -8,15 +8,6 @@
   src="https://github.com/user-attachments/assets/a0738c80-5ab4-4ef4-a240-e4cc8b059f20"
 />
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aman-sinha-dev&label=Profile%20views&color=0e75b6&style=flat"
-    alt="total visitors"
-  />
-</p>
-
-
-
 - 🏆 NextJS Frontend Developer
 - 🖥️ Portfolio - [Link](https://aman-kumar-sinha.vercel.app/)
 - 🚀 LinkedIn - [@amankumarsinha](https://www.linkedin.com/in/amankumarsinha/)
@@ -67,13 +58,6 @@
 
 ###
 
-<p align="left">
- 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aman-sinha-dev&theme=nightowl&hide_border=false"
-    alt="aman-sinha-dev"
-  />
-</p>
 
 
 
