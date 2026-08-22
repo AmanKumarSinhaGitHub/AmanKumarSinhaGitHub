@@ -54,9 +54,13 @@ src="https://github.com/user-attachments/assets/a0738c80-5ab4-4ef4-a240-e4cc8b05
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-| Project                                                                      | Live Demo                                                          | Source Code                                                                  |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| 🎵 **Music Academy** — Full-Stack Course & Enrollment Platform               | [Live Demo](https://aman-music-academy.vercel.app/)                | [GitHub](https://github.com/aman-sinha-dev/Music-Academy)                    |
-| 📦 **Product Management Dashboard** — Inventory & Stock Control Dashboard    | [Live Demo](https://free-product-management-dashboard.vercel.app/) | [GitHub](https://github.com/aman-sinha-dev/Product-Management-Dashboard)     |
-| 📊 **Shadcn Next.js Dashboard** — Modern Responsive Admin Dashboard          | [Live Demo](https://free-shadcn-nextjs-dashboard.vercel.app/)      | [GitHub](https://github.com/aman-sinha-dev/Shadcn-Nextjs-Dashboard)          |
+| Project | Live Demo | Source Code |
+|---|---|---|
+| 🎵 **Music Academy** - Full-Stack Course & Enrollment Platform | [Live Demo](https://aman-music-academy.vercel.app/) | [GitHub](https://github.com/aman-sinha-dev/Music-Academy) |
+| 📦 **Product Management Dashboard** - Inventory & Stock Control Dashboard | [Live Demo](https://free-product-management-dashboard.vercel.app/) | [GitHub](https://github.com/aman-sinha-dev/Product-Management-Dashboard) |
+| 📊 **Shadcn Next.js Dashboard** - Modern Responsive Admin Dashboard | [Live Demo](https://free-shadcn-nextjs-dashboard.vercel.app/) | [GitHub](https://github.com/aman-sinha-dev/Shadcn-Nextjs-Dashboard) |
 
+<h3 align="left">📚 Learning Resources</h3>
+
+* 📘 **Want to Learn MERN Stack?** - [MERN Stack Guide](https://github.com/aman-sinha-dev/MERN)
+* 🛠️ **Want to Learn Backend Development?** - [Backend Node.js, Express & MongoDB Guide](https://github.com/aman-sinha-dev/Backend-Node-Express-EJS-MongoDB)
